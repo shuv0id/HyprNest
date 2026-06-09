@@ -1,5 +1,16 @@
 <h1 align="center">🪺 HyprNest 🪺: Hyprland Rice 🍚 for my Arch Linux System.</h1>
 
+> ### ⚠️ Archived
+>
+> Reason being I'm not using Hyprland anymore... and thus not able to address and test the following:
+> 1. This rice requires a lot of cleanup of code and config
+> 2. This rice requires migration to `lua` for modern Hyprland config
+> 
+> Will prolly fresh start with a new rice if I get back to using Hyprland(high chances! but not now...)
+> 
+> P.S. I love Hyprland!!!
+>
+
 ### Info:
 + Wayland Compositor🔲 : [Hyprland](https://github.com/hyprwm/Hyprland).
 + Bar🍫 : [Waybar](https://github.com/Alexays/Waybar).
